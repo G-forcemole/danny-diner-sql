@@ -21,6 +21,8 @@ This project demonstrates how SQL is used in a **data analyst workflow**: joinin
 ## Dataset Overview
 The case study uses three tables:
 
+![Danny's Diner Schema](image/tables.png)
+
 - **sales**  
   Customer orders including product and order date  
 
